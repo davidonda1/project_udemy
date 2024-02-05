@@ -1,3 +1,4 @@
+"use strict"
 const numberOfFlims=prompt("How much films you see?","for exaple 45");
 
 let personalMovieDB={
@@ -16,4 +17,4 @@ personalMovieDB.movies[a]=b;
 personalMovieDB.movies[c]=d;
 
 
-console.log(personalMovieDB)
+console.log(personalMovieDB);
